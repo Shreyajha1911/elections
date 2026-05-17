@@ -31,10 +31,10 @@ Highest turnout constituency: Nakrekal — 60.97% voting percentage, INC won by 
 
 
 ## Tech stack
-Power BI
-DAX
-Excel
-Data Cleaning
+Power BI;
+DAX;
+Excel;
+Data Cleaning;
 Data Modelling
 
 ## Repository structure
