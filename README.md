@@ -5,7 +5,7 @@ A Power BI dashboard built during my internship at Hareesh IT Industries, visual
 The dashboard lets you explore election results at the constituency, district, and state level — winner, winning party, vote share, margin of victory, and voter turnout — for both the MLA and MP elections held in Telangana in 2023.
 This was one of the first projects where I saw a stakeholder actually change their understanding of a political outcome based on something I built. That's what made it stick.
 
-** What the data covers
+** What the data covers **
 ## MLA Elections (State Assembly)
 
 All 119 Telangana constituencies
